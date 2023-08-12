@@ -72,8 +72,8 @@
     - 碳排放：评估大型语言模型对环境的潜在影响，并提出相应的优化策略
 
 **各章节负责人**
-[陈安东](https://github.com/andongBlue)：第1~7章，11章
-[张帆](https://github.com/zhangfanTJU)：第8~10章，12章
+[陈安东](https://github.com/andongBlue)：第1\~7章，11章
+[张帆](https://github.com/zhangfanTJU)：第8\~10章，12章
 后边章节暂定
 
 **各章节预估完成日期**
