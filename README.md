@@ -36,41 +36,41 @@
 1. [引言](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch01.md)
     - 项目目标：目前对大规模预训练语言模型的相关知识的重点讲解
     - 项目背景：GPT-3等大型语言模型的出现，以及相关领域研究的发展
-2. 大模型的能力
+2. [大模型的能力](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch02.md)
     - 模型适应转换：大模型预训练往下游任务迁移
     - 模型性能评估：基于多个任务对GPT-3模型进行评估和分析
-3. 模型架构
+3. [模型架构](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch03.md)
     - 模型结构：研究和实现RNN, Transformer等网络结构
     - Transformer各层细节：从位置信息编码到注意力机制
-4. 新的模型架构
+4. [新的模型架构](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch04.md)
     - 混合专家模型（MoE）
     - 基于检索的模型
-5. 大模型的数据
+5. [大模型的数据](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch05.md)
     - 数据收集：从公开数据集中获取训练和评估所需数据，如The Pile数据集
     - 数据预处理：数据清洗、分词等
-6. 模型训练
+6. [模型训练](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch06.md)
     - 目标函数：大模型的训练方法
     - 优化算法：模型训练所使用的优化算法
-7. 大模型之Adaptation
+7. [大模型之Adaptation](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch07.md)
     - 讨论为什么需要Adaptation
     - 当前主流的Adaptation方法（Probing/微调/高效微调） 
-8. 分布式训练
+8. [分布式训练](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch08.md)
     - 为什么需要分布式训练
     - 常见的并行策略：数据并行、模型并行、流水线并行、混合并行
-9. 大模型的有害性-上
+9. [大模型的有害性-上](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch09.md)
     - 模型性能差异：预训练或数据处理影响大模型性能
     - 社会偏见：模型表现出的显性的社会偏见
-10. 大模型的有害性-下
+10. [大模型的有害性-下](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch10.md)
     - 模型有害信息：模型有毒信息的情况
     - 模型虚假信息：大模型的虚假信息情况
-11. 大模型法律
+11. [大模型法律](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch11.md)
     - 新技术引发的司法挑战：司法随着新技术的出现而不断完善
     - 过去司法案例汇总：过去案例的汇总
-12. 环境影响
+12. [环境影响](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch12.md)
     - 了解大语言模型对环境的影响
     - 估算模型训练产生的排放量
-13. 全面释放ChatGPT的无限潜能 ‐ 实用技巧、创新应用与前沿探索
-14. 探索深层式人工智能的无限潜力:从"工具人"到创造伙伴
+13. [全面释放ChatGPT的无限潜能 ‐ 实用技巧、创新应用与前沿探索](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch13.md)
+14. [探索深层式人工智能的无限潜力:从"工具人"到创造伙伴](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch14.md)
 
 **负责人**
 
