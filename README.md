@@ -69,8 +69,10 @@
 12. [环境影响](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch12.md)
     - 了解大语言模型对环境的影响
     - 估算模型训练产生的排放量
-13. [全面释放ChatGPT的无限潜能 ‐ 实用技巧、创新应用与前沿探索](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch13.md)
-14. [探索深层式人工智能的无限潜力:从"工具人"到创造伙伴](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch14.md)
+13. [智能体（Agent）](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch13.md)
+    - 了解Agent各组件细节
+    - Agent的挑战与机遇
+
 
 **负责人**
 
