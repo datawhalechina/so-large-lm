@@ -11,7 +11,6 @@
     * [第10章 大模型的有害性-下](content/ch10.md)
     * [第11章 大模型法律](content/ch11.md)
     * [第12章 环境影响](content/ch12.md)
-    * [第13章 全面释放ChatGPT的无限潜能 ‐ 实用技巧、创新应用与前沿探索](content/ch13.md)
-    * [第14章 探索深层式人工智能的无限潜力:从"工具人"到创造伙伴](content/ch14.md)
+    * [第13章 智能体Agent](content/ch13.md)
      
 
