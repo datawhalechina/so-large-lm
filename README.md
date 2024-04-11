@@ -80,9 +80,9 @@
 
 **负责人**
 
-- [陈安东](https://github.com/andongBlue)：
-- [张帆](https://github.com/zhangfanTJU)：
-- [王茂霖](https://github.com/mlw67)
+- [陈安东](https://github.com/andongBlue)：哈尔滨工业大学自然语言处理方向博士在读
+- [张帆](https://github.com/zhangfanTJU)：华中科技大学博士在读
+- [王茂霖](https://github.com/mlw67)：天津大学自然语言处理方法硕士
 
 
 **各章节预估完成日期**
