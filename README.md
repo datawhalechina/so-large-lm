@@ -76,6 +76,8 @@
 13. [智能体（Agent）](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch13.md)
     - 了解Agent各组件细节
     - Agent的挑战与机遇
+14. [Llama开源家族：从Llama-1到Llama-3]([https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch13.md](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch14.md))
+    - Llama进化史（第1节）/ 模型架构（第2节）/训练数据（第3节）/训练方法（第4节）/效果对比（第5节）/社区生态（第6节）
 
 
 **负责人**
