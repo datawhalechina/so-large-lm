@@ -1,5 +1,7 @@
 # 大模型基础
 
+> 已更新：[Llama开源家族：从Llama-1到Llama-3](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch14.md)
+
 ## 项目简介
 
 &emsp;&emsp;本项目旨在作为一个大规模预训练语言模型的教程，从数据准备、模型构建、训练策略到模型评估与改进，以及模型在安全、隐私、环境和法律道德方面的方面来提供开源知识。
