@@ -1,6 +1,8 @@
 # 大模型基础
 
 已更新
+>[Datawhale开源大模型入门课-第一节-进击的AI：大模型技术全景](https://www.bilibili.com/video/BV14x4y1x7bP/?spm_id_from=333.999.0.0&vd_source=4d086b5e84a56b9d46078e927713ffb0)
+>
 > [文字教程：Llama开源家族：从Llama-1到Llama-3](https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch14.md)
 > 
 > [视频教程：Llama开源家族：从Llama-1到Llama-3](https://www.bilibili.com/video/BV1Xi421C7Ca/?share_source=copy_web&vd_source=df1bd9526052993d540dbd5f7938501f)
