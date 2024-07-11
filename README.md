@@ -90,7 +90,7 @@
 
 ## 核心贡献者
 
-- [陈安东](https://github.com/andongBlue)：哈尔滨工业大学自然语言处理方向博士在读(发起人，项目内容构建)
+- [陈安东](https://github.com/andongBlue)：哈尔滨工业大学自然语言处理方向博士在读(发起人，项目负责人，项目内容构建)
 - [张帆](https://github.com/zhangfanTJU)：天津大学自然语言处理方法硕士（项目内容构建）
   
 ### 参与者
