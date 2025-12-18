@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="[https://github.com/datawhalechina/so-large-lm/logo.png](https://github.com/datawhalechina/so-large-lm/blob/main/logo.png)" width="180px" alt="Project Logo" />
+  <img src="./logo.png" width="1000px" alt="Project Logo" />
+
   
   # 🤖 大模型基础 (So-Large-LM)
   
